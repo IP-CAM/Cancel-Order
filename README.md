@@ -2,9 +2,12 @@ Supported OpenCart Versions:
 ================
 2.x versions
 
-Demo <a href=http://opencart.ostwork.com/opencart2.1/
+<a href=http://opencart.ostwork.com/opencart2.1/>Demo</a>
+
 Please login with following credentials : 
+
 user : sales@opensourcetechnologies.com
+
 pwd  : sales@123
 
 Cancel Order for opencart is a well thought out and excellently made module that allows a customer to cancel order, when a customer order a product on your site then the customer can also cancel the product after login.  
